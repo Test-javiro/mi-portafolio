@@ -1,2 +1,2 @@
 # mi-portafolio
-Este es un mi portafolio 
+Este es mi portafolio 
